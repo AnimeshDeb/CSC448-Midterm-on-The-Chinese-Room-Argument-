@@ -1,1 +1,1 @@
-# Midterm is commited to the main branch, please see list of files in this repository.
+# Midterm is commited to the main branch, please see list of files in this repository. You may need to click on 'More Pages' when viewing the midterm pdf file in the respository to see the whole midterm.
