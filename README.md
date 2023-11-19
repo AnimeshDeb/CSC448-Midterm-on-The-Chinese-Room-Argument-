@@ -1,1 +1,1 @@
-# CSC448-Midterm-on-The-Chinese-Room-Argument-
+# Midterm is commited to the main branch, please see list of files in this repository.
